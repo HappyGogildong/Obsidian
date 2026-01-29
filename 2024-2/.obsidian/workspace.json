@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "37c7a1b0ccce2b26",
+        "id": "9997fc1e381e0a77",
         "type": "tabs",
         "children": [
           {
-            "id": "3a4b661d6da1f815",
+            "id": "2d358d08ec02c84a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AI공부/머신러닝/개요.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "개요"
             }
           }
         ]
@@ -150,6 +154,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:빠른 전환기 열기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
@@ -158,8 +164,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c2eae9a6d5ee60e4",
+  "active": "2d358d08ec02c84a",
   "lastOpenFiles": [
+    "AI공부/머신러닝/경사하강법.md",
+    "AI공부/머신러닝/개요.md",
+    "AI공부/머신러닝",
+    "AI공부",
     "무제.canvas",
     "CS정리/데이터베이스/데이터베이스 2주차.md",
     "2026-01-29.md",
