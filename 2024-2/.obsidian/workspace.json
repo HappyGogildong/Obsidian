@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI공부/머신러닝/개요.md",
+                "file": "AI공부/CS146S modern software/DeepDive into LLMs like ChatGPT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "개요"
+              "title": "DeepDive into LLMs like ChatGPT"
             }
           }
         ]
@@ -167,12 +167,14 @@
   "active": "e9e45171b5055431",
   "lastOpenFiles": [
     "AI공부/머신러닝/경사하강법.md",
+    "AI공부/CS146S modern software/DeepDive into LLMs like ChatGPT.md",
+    "AI공부/CS146S modern software",
+    "AI공부/머신러닝/개요.md",
     "무제.base",
     "무제 4.base",
     "무제 3.base",
     "무제 2.base",
     "무제 1.base",
-    "AI공부/머신러닝/개요.md",
     "AI공부/머신러닝",
     "AI공부",
     "무제.canvas",
@@ -185,7 +187,6 @@
     "CS정리/블록체인 개론/블록체인 네트워크.md",
     "CS정리/블록체인 개론",
     "CS정리/데이터베이스",
-    "CS정리/운영체제",
     "Welcome.md",
     "웹프로그래밍.md",
     "CSS Tutorial.md"
