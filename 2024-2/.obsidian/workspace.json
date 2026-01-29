@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "9e1d3e3d37bd8841",
+    "type": "split",
+    "children": [
+      {
+        "id": "37c7a1b0ccce2b26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a4b661d6da1f815",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ecab47064cfb8f7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff8dfdab0924fb29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2eae9a6d5ee60e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "6d5cfa456d14a6ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "05549a13e6c7e551",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c6ee22156a4ed51c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6f678509245662b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bedd2c11990022c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "014a72586c996624",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "대학교 과목 정리/데이터베이스/데이터베이스 2주차.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "데이터베이스 2주차의 나가는 링크"
+            }
+          },
+          {
+            "id": "fe6aa7a0d25ca461",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9d8b81ef30313462",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "대학교 과목 정리/데이터베이스/데이터베이스 2주차.md"
+              },
+              "icon": "lucide-list",
+              "title": "데이터베이스 2주차 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "c2eae9a6d5ee60e4",
+  "lastOpenFiles": [
+    "무제.canvas",
+    "CS정리/데이터베이스/데이터베이스 2주차.md",
+    "2026-01-29.md",
+    "CS정리/데이터베이스/SQL 2.md",
+    "CS정리/데이터베이스/DDL.md",
+    "CS정리/운영체제/프로세스.md",
+    "CS정리/블록체인 개론/블록체인 개론 1주차 2.md",
+    "CS정리/블록체인 개론/블록체인 네트워크.md",
+    "CS정리/블록체인 개론",
+    "CS정리/데이터베이스",
+    "CS정리/운영체제",
+    "무제 폴더",
+    "CS정리",
+    "무제 폴더 1",
+    "Welcome.md",
+    "웹프로그래밍.md",
+    "CSS Tutorial.md"
+  ]
+}
