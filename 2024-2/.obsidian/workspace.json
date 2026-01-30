@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/2. Pretraining Data(Internet).md",
+                "file": "AI공부/머신러닝/개요.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Pretraining Data(Internet)"
+              "title": "개요"
             }
           }
         ],
@@ -209,16 +209,16 @@
   },
   "active": "c2eae9a6d5ee60e4",
   "lastOpenFiles": [
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/1. Introduction.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/2. Pretraining Data(Internet).md",
+    "AI공부/머신러닝/경사하강법.md",
+    "AI공부/머신러닝/개요.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/3. Tokenization.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/2. Pretraining Data(Internet).md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/1. Introduction.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT",
     "Pasted image 20260129233922.png",
     "Pasted image 20260129232714.png",
     "Pasted image 20260129232552.png",
-    "AI공부/머신러닝/경사하강법.md",
     "AI공부/CS146S modern software",
-    "AI공부/머신러닝/개요.md",
     "무제.base",
     "무제 4.base",
     "무제 3.base",
