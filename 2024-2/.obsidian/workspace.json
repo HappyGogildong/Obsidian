@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/5. Neural Network Internals.md",
+                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/6. Inference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Neural Network Internals"
+              "title": "6. Inference"
             }
           }
         ],
@@ -209,11 +209,12 @@
   },
   "active": "982b861bd2b9ecfd",
   "lastOpenFiles": [
-    "AI공부/CS146S modern software/Prompt Engineering/What is Prompt Engineering.md",
-    "AI공부/CS146S modern software/Prompt Engineering/Introduction Prompt Design.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/5. Neural Network Internals.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/4. Neural Network IO.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/3. Tokenization.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/6. Inference.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/5. Neural Network Internals.md",
+    "AI공부/CS146S modern software/Prompt Engineering/What is Prompt Engineering.md",
+    "AI공부/CS146S modern software/Prompt Engineering/Introduction Prompt Design.md",
     "Pasted image 20260129233922.png",
     "Pasted image 20260201030602.png",
     "Pasted image 20260201030542.png",
