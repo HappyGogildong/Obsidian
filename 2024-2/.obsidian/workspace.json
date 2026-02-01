@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/6. Inference.md",
+                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/7. GPT-2 Training and Inference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Inference"
+              "title": "7. GPT-2 Training and Inference"
             }
           }
         ],
@@ -209,11 +209,16 @@
   },
   "active": "982b861bd2b9ecfd",
   "lastOpenFiles": [
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/4. Neural Network IO.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/5. Neural Network Internals.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/6. Inference.md",
-    "Pasted image 20260201233519.png",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/7. GPT-2 Training and Inference.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/5. Neural Network Internals.md",
+    "AI공부/머신러닝/경사하강법.md",
+    "AI공부/머신러닝/개요.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/4. Neural Network IO.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/3. Tokenization.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/2. Pretraining Data(Internet).md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/1. Introduction.md",
+    "Pasted image 20260201233519.png",
     "AI공부/CS146S modern software/Prompt Engineering/What is Prompt Engineering.md",
     "AI공부/CS146S modern software/Prompt Engineering/Introduction Prompt Design.md",
     "Pasted image 20260129233922.png",
@@ -222,13 +227,9 @@
     "Pasted image 20260201030518.png",
     "Pasted image 20260201030202.png",
     "Pasted image 20260201023933.png",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/2. Pretraining Data(Internet).md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/1. Introduction.md",
     "Pasted image 20260201014652.png",
     "AI공부/CS146S modern software/Prompt Engineering",
     "AI공부/CS146S modern software/무제.md",
-    "AI공부/머신러닝/개요.md",
-    "AI공부/머신러닝/경사하강법.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT",
     "Pasted image 20260129232714.png",
     "Pasted image 20260129232552.png",
