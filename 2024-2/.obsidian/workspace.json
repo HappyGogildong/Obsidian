@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/7. GPT-2 Training and Inference.md",
+                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/8. Llama 3.1 Base Model Inference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. GPT-2 Training and Inference"
+              "title": "8. Llama 3.1 Base Model Inference"
             }
           }
         ],
@@ -209,8 +209,9 @@
   },
   "active": "982b861bd2b9ecfd",
   "lastOpenFiles": [
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/6. Inference.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/7. GPT-2 Training and Inference.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/8. Llama 3.1 Base Model Inference.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/6. Inference.md",
     "Pasted image 20260202012627.png",
     "Pasted image 20260202012534.png",
     "Pasted image 20260202011001.png",
