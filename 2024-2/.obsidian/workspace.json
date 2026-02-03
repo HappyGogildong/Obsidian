@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/11. Hallucinations, Tool Use, Knowledge&Working Memory.md",
+                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/12. Knowledge of Self.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Hallucinations, Tool Use, Knowledge&Working Memory"
+              "title": "12. Knowledge of Self"
             }
           }
         ],
@@ -209,9 +209,10 @@
   },
   "active": "982b861bd2b9ecfd",
   "lastOpenFiles": [
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/11. Hallucinations, Tool Use, Knowledge&Working Memory.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/12. Knowledge of Self.md",
     "Pasted image 20260204025652.png",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/10. Post-Training Data (Conversations).md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/11. Hallucinations, Tool Use, Knowledge&Working Memory.md",
     "Pasted image 20260204022213.png",
     "Pasted image 20260204022025.png",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/9. Pretraining to Post-Training.md",
@@ -232,7 +233,6 @@
     "AI공부/머신러닝/개요.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/4. Neural Network IO.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/1. Introduction.md",
-    "Pasted image 20260201233519.png",
     "AI공부/CS146S modern software/Prompt Engineering/What is Prompt Engineering.md",
     "AI공부/CS146S modern software/Prompt Engineering/Introduction Prompt Design.md",
     "AI공부/CS146S modern software/Prompt Engineering",
