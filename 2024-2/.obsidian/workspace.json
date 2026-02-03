@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/12. Knowledge of Self.md",
+                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/13. Models Need Tokens to Think.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Knowledge of Self"
+              "title": "13. Models Need Tokens to Think"
             }
           }
         ],
@@ -209,8 +209,10 @@
   },
   "active": "982b861bd2b9ecfd",
   "lastOpenFiles": [
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/11. Hallucinations, Tool Use, Knowledge&Working Memory.md",
+    "Pasted image 20260204030934.png",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/12. Knowledge of Self.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/13. Models Need Tokens to Think.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/11. Hallucinations, Tool Use, Knowledge&Working Memory.md",
     "Pasted image 20260204025652.png",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/10. Post-Training Data (Conversations).md",
     "Pasted image 20260204022213.png",
@@ -253,8 +255,6 @@
     "CS정리/데이터베이스/DDL.md",
     "CS정리/운영체제/프로세스.md",
     "CS정리/블록체인 개론/블록체인 개론 1주차 2.md",
-    "CS정리/블록체인 개론/블록체인 네트워크.md",
-    "Welcome.md",
-    "웹프로그래밍.md"
+    "CS정리/블록체인 개론/블록체인 네트워크.md"
   ]
 }
