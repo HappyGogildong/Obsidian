@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/15. Jagged Intelligence.md",
+                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/16. Supervised Finetuning to Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15. Jagged Intelligence"
+              "title": "16. Supervised Finetuning to Reinforcement Learning"
             }
           }
         ],
@@ -209,9 +209,16 @@
   },
   "active": "982b861bd2b9ecfd",
   "lastOpenFiles": [
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/5. Neural Network Internals.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/16. Supervised Finetuning to Reinforcement Learning.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/2. Pretraining Data(Internet).md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/8. Llama 3.1 Base Model Inference.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/7. GPT-2 Training and Inference.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/6. Inference.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/4. Neural Network IO.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/15. Jagged Intelligence.md",
     "Pasted image 20260204224057.png",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/14. Tokenization Revisited - Models Struggle with Spelling.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/15. Jagged Intelligence.md",
     "Pasted image 20260204221705.png",
     "Pasted image 20260204221613.png",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/13. Models Need Tokens to Think.md",
@@ -219,13 +226,9 @@
     "AI공부/CS146S modern software/Prompt Engineering/Introduction Prompt Design.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/10. Post-Training Data (Conversations).md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/12. Knowledge of Self.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/7. GPT-2 Training and Inference.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/3. Tokenization.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/2. Pretraining Data(Internet).md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/1. Introduction.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/5. Neural Network Internals.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/9. Pretraining to Post-Training.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/8. Llama 3.1 Base Model Inference.md",
     "Pasted image 20260204030934.png",
     "Pasted image 20260204025652.png",
     "Pasted image 20260204022213.png",
@@ -233,11 +236,8 @@
     "Pasted image 20260204021007.png",
     "Pasted image 20260204020944.png",
     "Pasted image 20260204020921.png",
-    "Pasted image 20260204020620.png",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/6. Inference.md",
     "AI공부/머신러닝/경사하강법.md",
     "AI공부/머신러닝/개요.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/4. Neural Network IO.md",
     "AI공부/CS146S modern software/Prompt Engineering/What is Prompt Engineering.md",
     "AI공부/CS146S modern software/Prompt Engineering",
     "AI공부/CS146S modern software/무제.md",
