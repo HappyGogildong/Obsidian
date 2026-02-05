@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/18. DeepSeek-R1.md",
+                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/19. AlphaGo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18. DeepSeek-R1"
+              "title": "19. AlphaGo"
             }
           }
         ],
@@ -209,8 +209,10 @@
   },
   "active": "982b861bd2b9ecfd",
   "lastOpenFiles": [
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/17. Reinforcement Learning.md",
+    "Pasted image 20260205235031.png",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/18. DeepSeek-R1.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/19. AlphaGo.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/17. Reinforcement Learning.md",
     "Pasted image 20260205225832.png",
     "Pasted image 20260205225720.png",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/13. Models Need Tokens to Think.md",
@@ -253,7 +255,6 @@
     "AI공부/머신러닝",
     "AI공부",
     "무제.canvas",
-    "CS정리/데이터베이스/데이터베이스 2주차.md",
-    "2026-01-29.md"
+    "CS정리/데이터베이스/데이터베이스 2주차.md"
   ]
 }
