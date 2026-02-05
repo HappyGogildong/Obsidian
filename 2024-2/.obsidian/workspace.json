@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/21. Summary.md",
+                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/22.21. Preview of Things to Come.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21. Summary"
+              "title": "22.21. Preview of Things to Come"
             }
           }
         ],
@@ -209,8 +209,9 @@
   },
   "active": "982b861bd2b9ecfd",
   "lastOpenFiles": [
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/20. Reinforcement Learning from Human Feedback (RLHF).md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/21. Summary.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/22.21. Preview of Things to Come.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/20. Reinforcement Learning from Human Feedback (RLHF).md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/12. Knowledge of Self.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/18. DeepSeek-R1.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/19. AlphaGo.md",
@@ -245,7 +246,6 @@
     "AI공부/머신러닝/개요.md",
     "AI공부/CS146S modern software/Prompt Engineering/What is Prompt Engineering.md",
     "AI공부/CS146S modern software/Prompt Engineering",
-    "AI공부/CS146S modern software/무제.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT",
     "AI공부/CS146S modern software",
     "무제.base",
