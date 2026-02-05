@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/19. AlphaGo.md",
+                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/20. Reinforcement Learning from Human Feedback (RLHF).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19. AlphaGo"
+              "title": "20. Reinforcement Learning from Human Feedback (RLHF)"
             }
           }
         ],
@@ -209,9 +209,11 @@
   },
   "active": "982b861bd2b9ecfd",
   "lastOpenFiles": [
+    "Pasted image 20260206001433.png",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/19. AlphaGo.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/20. Reinforcement Learning from Human Feedback (RLHF).md",
     "Pasted image 20260205235031.png",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/18. DeepSeek-R1.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/19. AlphaGo.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/17. Reinforcement Learning.md",
     "Pasted image 20260205225832.png",
     "Pasted image 20260205225720.png",
@@ -233,7 +235,6 @@
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/15. Jagged Intelligence.md",
     "Pasted image 20260204224057.png",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/14. Tokenization Revisited - Models Struggle with Spelling.md",
-    "Pasted image 20260204221705.png",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/11. Hallucinations, Tool Use, Knowledge&Working Memory.md",
     "AI공부/CS146S modern software/Prompt Engineering/Introduction Prompt Design.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/10. Post-Training Data (Conversations).md",
@@ -254,7 +255,6 @@
     "무제 1.base",
     "AI공부/머신러닝",
     "AI공부",
-    "무제.canvas",
-    "CS정리/데이터베이스/데이터베이스 2주차.md"
+    "무제.canvas"
   ]
 }
