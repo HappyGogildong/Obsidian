@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/16. Supervised Finetuning to Reinforcement Learning.md",
+                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/17. Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16. Supervised Finetuning to Reinforcement Learning"
+              "title": "17. Reinforcement Learning"
             }
           }
         ],
@@ -210,6 +210,7 @@
   "active": "982b861bd2b9ecfd",
   "lastOpenFiles": [
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/16. Supervised Finetuning to Reinforcement Learning.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/17. Reinforcement Learning.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/5. Neural Network Internals.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/2. Pretraining Data(Internet).md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/8. Llama 3.1 Base Model Inference.md",
@@ -254,7 +255,6 @@
     "CS정리/데이터베이스/데이터베이스 2주차.md",
     "2026-01-29.md",
     "CS정리/데이터베이스/SQL 2.md",
-    "CS정리/데이터베이스/DDL.md",
-    "CS정리/운영체제/프로세스.md"
+    "CS정리/데이터베이스/DDL.md"
   ]
 }
