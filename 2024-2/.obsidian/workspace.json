@@ -53,10 +53,14 @@
             "id": "982b861bd2b9ecfd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/16. Supervised Finetuning to Reinforcement Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "16. Supervised Finetuning to Reinforcement Learning"
             }
           }
         ],
