@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI공부/CS146S modern software/Prompt Engineering/Prompt Engineering.md",
+                "file": "AI공부/2025 LLM Year in Review - Andrej Kapathy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt Engineering"
+              "title": "2025 LLM Year in Review - Andrej Kapathy"
             }
           }
         ],
@@ -209,11 +209,15 @@
   },
   "active": "982b861bd2b9ecfd",
   "lastOpenFiles": [
+    "AI공부/CS146S modern software/Prompt Engineering/Prompt Engineering.md",
+    "AI공부/2025 LLM Year in Review - Andrej Kapathy.md",
+    "Tree of thought reference.jpg",
+    "Pasted image 20260206220849.png",
+    "multimodal prompting reference.jpg",
     "CS정리/블록체인 개론/블록체인 네트워크.md",
     "CS정리/블록체인 개론/블록체인 개론 1주차 2.md",
     "CS정리/데이터베이스/DDL.md",
     "CS정리/데이터베이스/데이터베이스 2주차.md",
-    "AI공부/CS146S modern software/Prompt Engineering/Prompt Engineering.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/1. Introduction.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/3. Tokenization.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/5. Neural Network Internals.md",
@@ -234,7 +238,6 @@
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/20. Reinforcement Learning from Human Feedback (RLHF).md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/21. Summary.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/22. Preview of Things to Come.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/4. Neural Network IO.md",
     "Pasted image 20260206001433.png",
     "Pasted image 20260205235031.png",
     "Pasted image 20260205225832.png",
@@ -242,9 +245,6 @@
     "Pasted image 20260205224002.png",
     "Pasted image 20260205223828.png",
     "Pasted image 20260205223631.png",
-    "Pasted image 20260205223613.png",
-    "Pasted image 20260205223144.png",
-    "Pasted image 20260205212903.png",
     "AI공부/CS146S modern software/Prompt Engineering",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT",
     "AI공부/CS146S modern software",

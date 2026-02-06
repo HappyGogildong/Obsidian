@@ -18,18 +18,21 @@ https://www.promptingguide.ai/techniques
 Google Prompt Engineering Course summary in 20 minutes
 https://www.youtube.com/watch?v=p09yRj47kNM
 
-prompting frameworks
 
-give specific Task
-give additional Context
-give persona 
-give structured output
-provide References
-Evaluate result
-Iterate 
+---
+
+### Prompting Frameworks
+
+give specific **Task**
+give additional **Context**
+give **Persona** 
+give structured **output**
+provide **References**
+**Evaluate** result
+**Iterate** if  
 
 
-four iteration technique
+#### Four Iteration Technique
 
 1. rewrite prompt 
 2. seperate into shorter sentences
@@ -37,44 +40,52 @@ four iteration technique
 4. introduce constraints
 
 
-Multimodal prompting
+**Multimodal prompting**
 
--그림 참고
+![[multimodal prompting reference.jpg]]
 
-How to avoid Hallucination?
 
-human in the loop - check the result
+### **How to avoid Hallucination?**
 
-checklist-
+**human in the loop** - check the result
 
-1. Evaluate Suitability: Ensure AI fits the task and doesn't reinforce harmful biases
-2. Get approval: Obtain company consent(기업 허가) before using AI on projects
-3. Protect Priavacy: Use secure tools and avoid exposing sensitive data
-4. Validate Outputs: Review AI-generated content before sharing
-5. Be Transparent: Disclose AI use to teams and clients.
+**checklist-**
+
+1. **Evaluate** Suitability: Ensure AI fits the task and doesn't reinforce harmful biases
+2. Get **approval**: Obtain company consent(기업 허가) before using AI on projects
+3. Protect **Priavacy**: Use secure tools and avoid exposing sensitive data
+4. **Validate** Outputs: Review AI-generated content before sharing
+5. Be **Transparent**: Disclose AI use to teams and clients.
 
 Prompt for Data Analysis and Presentation Building
 
-CAREFUL FOR WHAT YOU INPUTING. SENSITIVE, PRIVACY
+CAREFUL FOR WHAT YOU INPUTING. **SENSITIVE, PRIVACY** INFORMATION
 
 
-Use Ai as a creatvie or expert partner
+### Use Ai as a creatvie or expert partner
 
-Prompt Chaining : 연결된 일련의 프롬프트로 layer와 복잡성을 더하는 방법
+**Prompt Chaining** : 연결된 일련의 프롬프트로 layer와 복잡성을 더하는 방법
 ㄴ taking output form the previous prompt 
 
-CoT prompting
+**CoT prompting**
 Ask ai to reasoning, step by step
 
-Tree of thought prompting
+**Tree of thought prompting**
 explore multiple reasoning paths simultaenously
 
-AI agent? Expert designed to help tasks and answer questions.
+![[Tree of thought reference.jpg]]
+[^1]
 
-focus on persona and context
-specify conversation.
-provide stop phrase
-provide summary.
+**AI agent**? Expert designed to help tasks and answer questions.
+
+focus on **persona** and **context**
+specify **conversation**.
+provide **stop phrase**
+provide **summary**.
+
+![[Pasted image 20260206220849.png]]
 
 
 
+
+[^1]: Tree of Thought 레퍼런스 이미지
