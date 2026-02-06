@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS정리/블록체인 개론/블록체인 네트워크.md",
+                "file": "AI공부/CS146S modern software/Prompt Engineering/Prompt Engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "블록체인 네트워크"
+              "title": "Prompt Engineering"
             }
           }
         ],
@@ -209,6 +209,7 @@
   },
   "active": "982b861bd2b9ecfd",
   "lastOpenFiles": [
+    "CS정리/블록체인 개론/블록체인 네트워크.md",
     "CS정리/블록체인 개론/블록체인 개론 1주차 2.md",
     "CS정리/데이터베이스/DDL.md",
     "CS정리/데이터베이스/데이터베이스 2주차.md",
@@ -234,7 +235,6 @@
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/21. Summary.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/22. Preview of Things to Come.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/4. Neural Network IO.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/2. Pretraining Data(Internet).md",
     "Pasted image 20260206001433.png",
     "Pasted image 20260205235031.png",
     "Pasted image 20260205225832.png",
