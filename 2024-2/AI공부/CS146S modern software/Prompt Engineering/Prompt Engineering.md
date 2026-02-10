@@ -84,8 +84,12 @@ provide **stop phrase**
 provide **summary**.
 
 ![[Pasted image 20260206220849.png]]
-
-
+[^2]
+[^3]
 
 
 [^1]: Tree of Thought 레퍼런스 이미지
+
+[^2]: AI agent 프롬프트 예시
+
+[^3]: 멀티모달 프롬프팅 예시
