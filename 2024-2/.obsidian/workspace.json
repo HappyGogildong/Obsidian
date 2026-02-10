@@ -55,28 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI공부/CS146S modern software/Prompt Engineering/Prompt Engineering.md",
+                "file": "AI공부/2025 LLM Year in Review - Andrej Kapathy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt Engineering"
-            }
-          },
-          {
-            "id": "c9b8892644be4a29",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.11.7"
+              "title": "2025 LLM Year in Review - Andrej Kapathy"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -219,10 +207,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c9b8892644be4a29",
+  "active": "982b861bd2b9ecfd",
   "lastOpenFiles": [
-    "AI공부/2025 LLM Year in Review - Andrej Kapathy.md",
     "AI공부/CS146S modern software/Prompt Engineering/Prompt Engineering.md",
+    "AI공부/2025 LLM Year in Review - Andrej Kapathy.md",
     "Tree of thought reference.jpg",
     "Pasted image 20260206220849.png",
     "multimodal prompting reference.jpg",
