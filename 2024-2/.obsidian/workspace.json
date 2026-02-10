@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI공부/2025 LLM Year in Review - Andrej Kapathy.md",
+                "file": "AI공부/머신러닝/경사하강법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025 LLM Year in Review - Andrej Kapathy"
+              "title": "경사하강법"
             }
           }
         ],
@@ -209,8 +209,10 @@
   },
   "active": "982b861bd2b9ecfd",
   "lastOpenFiles": [
-    "AI공부/CS146S modern software/Prompt Engineering/Prompt Engineering.md",
+    "AI공부/머신러닝/개요.md",
+    "AI공부/머신러닝/경사하강법.md",
     "AI공부/2025 LLM Year in Review - Andrej Kapathy.md",
+    "AI공부/CS146S modern software/Prompt Engineering/Prompt Engineering.md",
     "Tree of thought reference.jpg",
     "Pasted image 20260206220849.png",
     "multimodal prompting reference.jpg",
@@ -236,8 +238,6 @@
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/18. DeepSeek-R1.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/19. AlphaGo.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/20. Reinforcement Learning from Human Feedback (RLHF).md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/21. Summary.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/22. Preview of Things to Come.md",
     "Pasted image 20260206001433.png",
     "Pasted image 20260205235031.png",
     "Pasted image 20260205225832.png",
