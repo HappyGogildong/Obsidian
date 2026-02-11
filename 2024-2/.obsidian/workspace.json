@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI공부/머신러닝/경사하강법.md",
+                "file": "졸프/무제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "경사하강법"
+              "title": "무제"
             }
           }
         ],
@@ -209,8 +209,11 @@
   },
   "active": "982b861bd2b9ecfd",
   "lastOpenFiles": [
-    "AI공부/머신러닝/개요.md",
     "AI공부/머신러닝/경사하강법.md",
+    "졸프/무제.md",
+    "졸프",
+    "졸업프로젝트 중간.md",
+    "AI공부/머신러닝/개요.md",
     "AI공부/2025 LLM Year in Review - Andrej Kapathy.md",
     "AI공부/CS146S modern software/Prompt Engineering/Prompt Engineering.md",
     "Tree of thought reference.jpg",
@@ -236,8 +239,6 @@
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/16. Supervised Finetuning to Reinforcement Learning.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/17. Reinforcement Learning.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/18. DeepSeek-R1.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/19. AlphaGo.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/20. Reinforcement Learning from Human Feedback (RLHF).md",
     "Pasted image 20260206001433.png",
     "Pasted image 20260205235031.png",
     "Pasted image 20260205225832.png",
@@ -254,7 +255,6 @@
     "무제 2.base",
     "무제 1.base",
     "AI공부/머신러닝",
-    "AI공부",
     "무제.canvas"
   ]
 }
