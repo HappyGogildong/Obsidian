@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/3. Tokenization.md",
+                "file": "AI공부/머신러닝/3B1B 머신러닝/개요.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Tokenization"
+              "title": "개요"
             }
           },
           {
@@ -193,8 +193,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e9e45171b5055431",
+  "active": "c2eae9a6d5ee60e4",
   "lastOpenFiles": [
+    "AI공부/머신러닝/3B1B 머신러닝",
+    "AI공부/머신러닝/3B1B 머신러닝/경사하강법.md",
+    "AI공부/CS146S modern software/Prompt Engineering/Prompt Engineering.md",
+    "AI공부/머신러닝/3B1B 머신러닝/개요.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/3. Tokenization.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/2. Pretraining Data(Internet).md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/1. Introduction.md",
     "Templates/Daily retrospect.md",
@@ -211,12 +216,9 @@
     "CS정리/자료구조",
     "CS정리/무제.md",
     "CS정리/알고리즘",
-    "AI공부/머신러닝/경사하강법.md",
     "졸프",
     "졸업프로젝트 중간.md",
-    "AI공부/머신러닝/개요.md",
     "AI공부/2025 LLM Year in Review - Andrej Kapathy.md",
-    "AI공부/CS146S modern software/Prompt Engineering/Prompt Engineering.md",
     "Tree of thought reference.jpg",
     "Pasted image 20260206220849.png",
     "multimodal prompting reference.jpg",
@@ -224,7 +226,6 @@
     "CS정리/블록체인 개론/블록체인 개론 1주차 2.md",
     "CS정리/데이터베이스/DDL.md",
     "CS정리/데이터베이스/데이터베이스 2주차.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/3. Tokenization.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/5. Neural Network Internals.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/6. Inference.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/7. GPT-2 Training and Inference.md",
@@ -232,7 +233,6 @@
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/9. Pretraining to Post-Training.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/10. Post-Training Data (Conversations).md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/11. Hallucinations, Tool Use, Knowledge&Working Memory.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/12. Knowledge of Self.md",
     "Pasted image 20260206001433.png",
     "Pasted image 20260205235031.png",
     "Pasted image 20260205225832.png",
