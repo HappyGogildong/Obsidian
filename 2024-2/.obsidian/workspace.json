@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "졸프/무제.md",
+                "file": "졸프/임ㅁ시.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "무제"
+              "title": "임ㅁ시"
             }
           },
           {
@@ -195,8 +195,13 @@
   },
   "active": "e9e45171b5055431",
   "lastOpenFiles": [
+    "졸프/개념학습용/SIGLIP 2 Base Model.md",
+    "졸프/개념학습용/MobileCLIP 2 S4 Model.md",
+    "졸프/개념학습용/DeepLearning Overview.md",
+    "졸프/개념학습용/EVA_CLIP_L_Model.md",
+    "졸프/개념학습용/CLIP.md",
+    "졸프/개념학습용",
     "졸프/임ㅁ시.md",
-    "졸프/무제.md",
     "회고/Daily/2026-02-14.md",
     "AI공부/CS146S modern software/Prompt Engineering/Prompt Engineering.md",
     "AI공부/머신러닝/3B1B 머신러닝/개요.md",
@@ -219,7 +224,6 @@
     "CS정리/자료구조",
     "CS정리/무제.md",
     "CS정리/알고리즘",
-    "졸프",
     "졸업프로젝트 중간.md",
     "AI공부/2025 LLM Year in Review - Andrej Kapathy.md",
     "Tree of thought reference.jpg",
@@ -231,10 +235,6 @@
     "CS정리/데이터베이스/데이터베이스 2주차.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/5. Neural Network Internals.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/6. Inference.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/7. GPT-2 Training and Inference.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/8. Llama 3.1 Base Model Inference.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/9. Pretraining to Post-Training.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/10. Post-Training Data (Conversations).md",
     "Pasted image 20260206001433.png",
     "Pasted image 20260205235031.png",
     "Pasted image 20260205225832.png",
