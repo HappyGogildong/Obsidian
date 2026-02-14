@@ -18,7 +18,9 @@ CLIP is pre‑trained on **hundreds of millions of (image, caption) pairs** scra
 2. Cosine similarities sij=⟨ziimg,zjtext⟩/(∥ziimg∥ ∥zjtext∥)s_{ij} = \langle z_i^{\text{img}}, z_j^{\text{text}}\rangle / (\|z_i^{\text{img}}\|\,\|z_j^{\text{text}}\|)sij​=⟨ziimg​,zjtext​⟩/(∥ziimg​∥∥zjtext​∥) are computed for all pairs.
     
 3. A **contrastive loss** encourages the similarity for matched pairs (i=j)(i=j)(i=j) to be high and those for mismatched pairs (i≠j)(i \ne j)(i=j) to be low. In practice, InfoNCE or cross‑entropy loss is applied across rows and columns of the similarity matrix.
-    
+
+![[Pasted image 20260215000431.png]]
+
 
 Because the model never sees class labels, it learns general visual–language concepts. At inference time, CLIP performs **zero‑shot classification** by comparing an image’s embedding to embeddings of textual class descriptions (e.g., “a photo of a cat”, “a photo of a dog”) and choosing the highest‑similarity label.
 
