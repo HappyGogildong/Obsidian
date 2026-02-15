@@ -83,3 +83,12 @@ torch.cuda.empty_cache()
 ...
 torch.cuda.empty_cache()
 ```
+
+fp32를 fp16으로 변경
+```
+kwargs = {
+                'model_name': name,
+                'pretrained': tag,
+                'precision': 'fp16'
+            }
+```
