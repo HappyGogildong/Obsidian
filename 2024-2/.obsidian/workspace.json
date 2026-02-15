@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "졸프/개념학습용/DeepLearning Overview.md",
+                "file": "졸프/OutOfMemory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DeepLearning Overview"
+              "title": "OutOfMemory"
             }
           },
           {
@@ -195,14 +195,16 @@
   },
   "active": "e9e45171b5055431",
   "lastOpenFiles": [
-    "졸프/개념학습용/EVA_CLIP_L_Model.md",
+    "졸프/임ㅁ시.md",
+    "회고/Daily/2026-02-15.md",
+    "졸프/OutOfMemory.md",
     "졸프/개념학습용/DeepLearning Overview.md",
+    "졸프/개념학습용/EVA_CLIP_L_Model.md",
     "회고/Daily/2026-02-14.md",
     "졸프/개념학습용/CLIP.md",
     "Pasted image 20260215000431.png",
     "졸프/개념학습용/MobileCLIP 2 S4 Model.md",
     "졸프/개념학습용/SIGLIP 2 Base Model.md",
-    "졸프/임ㅁ시.md",
     "졸프/개념학습용",
     "AI공부/CS146S modern software/Prompt Engineering/Prompt Engineering.md",
     "AI공부/머신러닝/3B1B 머신러닝/개요.md",
@@ -234,7 +236,6 @@
     "CS정리/블록체인 개론/블록체인 개론 1주차 2.md",
     "CS정리/데이터베이스/DDL.md",
     "CS정리/데이터베이스/데이터베이스 2주차.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/5. Neural Network Internals.md",
     "Pasted image 20260206001433.png",
     "Pasted image 20260205235031.png",
     "Pasted image 20260205225832.png",
