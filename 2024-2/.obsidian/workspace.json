@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "졸프/포폴 기록용.md",
+                "file": "졸프/OutOfMemory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "포폴 기록용"
+              "title": "OutOfMemory"
             }
           },
           {
@@ -195,8 +195,8 @@
   },
   "active": "e9e45171b5055431",
   "lastOpenFiles": [
-    "졸프/OutOfMemory.md",
     "졸프/포폴 기록용.md",
+    "졸프/OutOfMemory.md",
     "졸프/임ㅁ시.md",
     "회고/Daily/2026-02-15.md",
     "졸프/개념학습용/DeepLearning Overview.md",

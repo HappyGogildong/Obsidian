@@ -92,3 +92,19 @@ kwargs = {
                 'precision': 'fp16'
             }
 ```
+
+기존 세팅
+```
+training:
+  batch_size: 256     # MobileCLIP2-S4 is lighter; can use larger batch
+  epochs: 12
+  lr: 5.0e-4
+  weight_decay: 0.2
+  warmup: 1000
+  use_teacher: true
+  distill_weights: [0.4, 0.4]  # one weight per teacher (must matchteacher_names length)
+
+  clip_grad_norm: 1.0
+  amp: true
+  ema_decay: 0.9995
+```
