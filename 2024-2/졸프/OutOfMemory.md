@@ -70,3 +70,16 @@ torch.cuda.empty_cache() # 캐시 비우기
 
 ### 해결책
 제미나이의 4,5 번을 적용해보고 먼저 2번 방법을 사용해보기로 했다
+```
+import os
+os.environ["PYTORCH_ALLOC_CONF"] = "expandable_segments:True"
+```
+
+```
+torch.cuda.empty_cache()
+# Load student
+...
+# Load Teacher
+...
+torch.cuda.empty_cache()
+```
