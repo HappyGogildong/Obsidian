@@ -108,3 +108,8 @@ training:
   amp: true
   ema_decay: 0.9995
 ```
+변경
+```
+ batch_size: 4          # 256에서 4로 대폭 축소 (12GB VRAM 기준)
+ accumulation_steps: 32 # (선택) 배치가 작아진 만큼 학습 안정성을 위해 추가 고려
+```
