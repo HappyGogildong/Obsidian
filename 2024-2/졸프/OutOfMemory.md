@@ -113,3 +113,32 @@ training:
  batch_size: 4          # 256에서 4로 대폭 축소 (12GB VRAM 기준)
  accumulation_steps: 32 # (선택) 배치가 작아진 만큼 학습 안정성을 위해 추가 고려
 ```
+![[Pasted image 20260215181639.png]]
+
+```
+1. train.py
+
+- Config: accumulation_steps 필드 추가 (기본값 1).
+
+- 스케줄러: optimizer step 기준으로 step 수 계산
+
+steps_per_epoch = (len(train_loader) + accum - 1) // accum, total_steps = epochs * steps_per_epoch.
+
+- 학습 루프:
+
+- batch_idx % accum == 0일 때만 optimiser.zero_grad().
+
+- loss = loss / accum 후 scaler.scale(loss).backward()로 gradient만 누적.
+
+- (batch_idx + 1) % accum == 0이거나 epoch의 마지막 배치일 때만
+
+scaler.unscale_ → clip_grad_norm → scaler.step → scaler.update → scheduler.step.
+
+- 로그용 loss는 epoch_loss += loss.item() * accum으로 유효 배치 크기 기준 loss 유지.
+
+2. config.yaml
+
+- accumulation_steps: 32 유지, 주석만 정리 (effective batch = 4 × 32 = 128 명시).
+
+이제 batch_size=4, accumulation_steps=32로 effective batch size 128로 학습되며, 메모리는 4 샘플 분만 쓰게 됩니다.
+```
