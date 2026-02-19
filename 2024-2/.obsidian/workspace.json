@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "졸프/포폴 기록용.md",
+                "file": "AI공부/머신러닝/3B1B 머신러닝/1. 경사하강법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "포폴 기록용"
+              "title": "1. 경사하강법"
             }
           },
           {
@@ -195,6 +195,10 @@
   },
   "active": "e9e45171b5055431",
   "lastOpenFiles": [
+    "Pasted image 20260219170826.png",
+    "AI공부/머신러닝/3B1B 머신러닝/0. 신경망 개요.md",
+    "AI공부/머신러닝/3B1B 머신러닝/1. 경사하강법.md",
+    "졸프/포폴 기록용.md",
     "졸프/개념학습용/SIGLIP 2 Base Model.md",
     "졸프/개념학습용/MobileCLIP 2 S4 Model.md",
     "졸프/개념학습용/EVA_CLIP_L_Model.md",
@@ -204,9 +208,7 @@
     "졸프/트러블슈팅/OutOfMemory.md",
     "회고/Daily/2026-02-15.md",
     "회고/Daily/2026-02-14.md",
-    "AI공부/머신러닝/3B1B 머신러닝/0. 신경망 개요.md",
     "졸프/임ㅁ시.md",
-    "AI공부/머신러닝/3B1B 머신러닝/1. 경사하강법.md",
     "Pasted image 20260216013217.png",
     "Pasted image 20260216012840.png",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/17. Reinforcement Learning.md",
@@ -223,7 +225,6 @@
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/5. Neural Network Internals.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/1. Introduction.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/2. Pretraining Data(Internet).md",
-    "졸프/포폴 기록용.md",
     "졸프/트러블슈팅",
     "졸프/개념학습용",
     "AI공부/CS146S modern software/Prompt Engineering/Prompt Engineering.md",
