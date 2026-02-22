@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회고/Daily/2026-02-21.md",
+                "file": "회고/Daily/2026-02-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-21"
+              "title": "2026-02-22"
             }
           },
           {
@@ -195,8 +195,9 @@
   },
   "active": "e9e45171b5055431",
   "lastOpenFiles": [
-    "회고/Daily/2026-02-19.md",
     "회고/Daily/2026-02-21.md",
+    "회고/Daily/2026-02-22.md",
+    "회고/Daily/2026-02-19.md",
     "졸프/개념학습용/SIGLIP 2 Base Model.md",
     "졸프/개념학습용/MobileCLIP 2 S4 Model.md",
     "졸프/개념학습용/EVA_CLIP_L_Model.md",
@@ -235,7 +236,6 @@
     "회고/Daily/2026-02-13.md",
     "회고/Project",
     "회고/Monthly",
-    "회고/무제.md",
     "회고/Weekly",
     "회고/Daily",
     "회고",
