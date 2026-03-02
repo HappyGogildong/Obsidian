@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취업준비/인성면접/질문 리스트.md",
+                "file": "취업준비/CS면접/네트워크.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "질문 리스트"
+              "title": "네트워크"
             }
           }
         ]
@@ -167,9 +167,12 @@
   },
   "active": "69fd089d2a533660",
   "lastOpenFiles": [
-    "취업준비/기술면접/개요.md",
     "취업준비/인성면접/질문 리스트.md",
+    "취업준비/CS면접/네트워크.md",
+    "취업준비/CS면접/네트워크/무제.md",
+    "취업준비/CS면접/네트워크",
     "취업준비/인성면접/개요.md",
+    "취업준비/기술면접/개요.md",
     "취업준비/CS면접",
     "취업준비/인성면접",
     "AI공부/머신러닝/3B1B 머신러닝/2. 역전파(Back Propagation).md",
@@ -195,8 +198,6 @@
     "CS정리/데이터베이스/데이터베이스 2주차.md",
     "CS정리/블록체인 개론/블록체인 개론 1주차 2.md",
     "CS정리/블록체인 개론/블록체인 네트워크.md",
-    "Templates/Daily retrospect.md",
-    "CS정리/운영체제/프로세스.md",
     "Pasted image 20260219175455.png",
     "_attachments/Tree of thought reference.jpg",
     "_attachments/Pasted image 20260219175455.png",
@@ -212,7 +213,6 @@
     "졸프/개념학습용",
     "AI공부/머신러닝/3B1B 머신러닝",
     "회고/Project",
-    "회고/Monthly",
     "무제.canvas"
   ]
 }
