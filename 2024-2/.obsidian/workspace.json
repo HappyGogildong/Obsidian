@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "227b6317dfb9795c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.12.4"
+            }
+          },
+          {
             "id": "1f160b9285cfd662",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "1. Introduction"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +192,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "69fd089d2a533660",
+  "active": "227b6317dfb9795c",
   "lastOpenFiles": [
     "AI공부/머신러닝/3B1B 머신러닝/0. 신경망 개요.md",
     "AI공부/머신러닝/3B1B 머신러닝/1. 경사하강법.md",
