@@ -22,29 +22,17 @@
             }
           },
           {
-            "id": "227b6317dfb9795c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.12.4"
-            }
-          },
-          {
             "id": "1f160b9285cfd662",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/1. Introduction.md",
+                "file": "CS정리/알고리즘/시간 복잡도.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction"
+              "title": "시간 복잡도"
             }
           }
         ],
@@ -192,8 +180,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "227b6317dfb9795c",
+  "active": "1f160b9285cfd662",
   "lastOpenFiles": [
+    "CS정리/알고리즘/Big-O Notation.md",
+    "CS정리/알고리즘/시간 복잡도.md",
+    "CS정리/알고리즘/코딩 테스트 준비하기.md",
+    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/1. Introduction.md",
     "AI공부/머신러닝/3B1B 머신러닝/0. 신경망 개요.md",
     "AI공부/머신러닝/3B1B 머신러닝/1. 경사하강법.md",
     "AI공부/머신러닝/3B1B 머신러닝/2. 역전파(Back Propagation).md",
@@ -211,7 +203,6 @@
     "CS정리/블록체인 개론/블록체인 네트워크.md",
     "Templates/Daily retrospect.md",
     "CS정리/운영체제/프로세스.md",
-    "CS정리/알고리즘/Big-O Notation.md",
     "회고/Daily/2026-02-19.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/2. Pretraining Data(Internet).md",
     "Pasted image 20260219175455.png",
@@ -225,12 +216,9 @@
     "_attachments/Pasted image 20260219170826.png",
     "_attachments/Pasted image 20260216013217.png",
     "_attachments",
-    "CS정리/알고리즘/코딩 테스트 준비하기.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/21. Summary.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/22. Preview of Things to Come.md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/17. Reinforcement Learning.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/18. DeepSeek-R1.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/11. Hallucinations, Tool Use, Knowledge&Working Memory.md",
     "졸프/트러블슈팅",
     "졸프/개념학습용",
     "AI공부/머신러닝/3B1B 머신러닝",
