@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI공부/머신러닝/3B1B 머신러닝/2. 역전파(Back Propagation).md",
+                "file": "취업준비/인성면접/질문 리스트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. 역전파(Back Propagation)"
+              "title": "질문 리스트"
             }
           }
         ]
@@ -165,16 +165,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c2eae9a6d5ee60e4",
+  "active": "69fd089d2a533660",
   "lastOpenFiles": [
+    "취업준비/기술면접/개요.md",
+    "취업준비/인성면접/질문 리스트.md",
+    "취업준비/인성면접/개요.md",
+    "취업준비/CS면접",
+    "취업준비/인성면접",
+    "AI공부/머신러닝/3B1B 머신러닝/2. 역전파(Back Propagation).md",
+    "무제.md",
     "취업준비/기술면접",
     "취업준비",
-    "무제.md",
     "CS정리/알고리즘/시간 복잡도.md",
     "CS정리/알고리즘/코딩 테스트 준비하기.md",
     "AI공부/2025 LLM Year in Review - Andrej Kapathy.md",
     "CS정리/알고리즘/Big-O Notation.md",
-    "AI공부/머신러닝/3B1B 머신러닝/2. 역전파(Back Propagation).md",
     "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/1. Introduction.md",
     "AI공부/머신러닝/3B1B 머신러닝/0. 신경망 개요.md",
     "AI공부/머신러닝/3B1B 머신러닝/1. 경사하강법.md",
@@ -192,8 +197,6 @@
     "CS정리/블록체인 개론/블록체인 네트워크.md",
     "Templates/Daily retrospect.md",
     "CS정리/운영체제/프로세스.md",
-    "회고/Daily/2026-02-19.md",
-    "AI공부/CS146S modern software/Deep Dive into LLMs like ChatGPT/2. Pretraining Data(Internet).md",
     "Pasted image 20260219175455.png",
     "_attachments/Tree of thought reference.jpg",
     "_attachments/Pasted image 20260219175455.png",
@@ -210,9 +213,6 @@
     "AI공부/머신러닝/3B1B 머신러닝",
     "회고/Project",
     "회고/Monthly",
-    "회고/Weekly",
-    "회고/Daily",
-    "회고",
     "무제.canvas"
   ]
 }
