@@ -25,12 +25,14 @@
             "id": "0cf2614f697e0d45",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "CS정리/영역별 필요한 지식.png"
+                "file": "아이디어짜보기/개인 디자인 및 외주.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "영역별 필요한 지식"
+              "icon": "lucide-file",
+              "title": "개인 디자인 및 외주"
             }
           }
         ],
@@ -178,10 +180,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c2eae9a6d5ee60e4",
+  "active": "0cf2614f697e0d45",
   "lastOpenFiles": [
-    "CS정리/운영체제/프로세스.md",
     "CS정리/영역별 필요한 지식.png",
+    "아이디어짜보기/개인 디자인 및 외주.md",
+    "아이디어짜보기",
+    "CS정리/운영체제/프로세스.md",
     "취업준비/CS면접/네트워크.md",
     "취업준비/CS면접/운영체제.md",
     "취업준비/인성면접/질문 리스트.md",
@@ -208,7 +212,6 @@
     "취업준비/회사정리/당근.md",
     "취업준비/회사정리/쿠팡.md",
     "취업준비/회사정리/라인.md",
-    "취업준비/회사정리/카카오.md",
     "취업준비/회사정리",
     "취업준비/CS면접/네트워크",
     "취업준비/CS면접",
@@ -224,7 +227,6 @@
     "_attachments/Pasted image 20260219174359.png",
     "_attachments/Pasted image 20260219171033.png",
     "_attachments/Pasted image 20260219170826.png",
-    "_attachments",
     "무제.canvas"
   ]
 }
