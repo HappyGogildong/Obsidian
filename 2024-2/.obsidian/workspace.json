@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "CJ올리브영"
             }
+          },
+          {
+            "id": "abc22f4f7446a967",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.12.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,7 +192,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0cf2614f697e0d45",
+  "active": "abc22f4f7446a967",
   "lastOpenFiles": [
     "아이디어짜보기/개인 디자인 및 외주.md",
     "취업준비/회사정리/CJ올리브영.md",
