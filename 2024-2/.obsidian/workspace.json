@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취업준비/회사정리/기아.md",
+                "file": "취업준비/인성면접/질문 리스트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "기아"
+              "title": "질문 리스트"
             }
           }
         ],
@@ -182,9 +182,10 @@
   },
   "active": "0cf2614f697e0d45",
   "lastOpenFiles": [
+    "취업준비/인성면접/개요.md",
+    "취업준비/회사정리/기아.md",
     "아이디어짜보기/AI 에이전트 밴드 세션.md",
     "아이디어짜보기/개인 디자인 및 외주.md",
-    "취업준비/회사정리/기아.md",
     "졸프/트러블슈팅/OutOfMemory.md",
     "졸프/트러블슈팅/Dimension Mismatch.md",
     "졸프/기록용/3.06.md",
@@ -203,7 +204,6 @@
     "취업준비/CS면접/네트워크.md",
     "취업준비/CS면접/운영체제.md",
     "취업준비/인성면접/질문 리스트.md",
-    "취업준비/인성면접/개요.md",
     "Excalidraw/Drawing 2026-03-18 00.45.18.excalidraw.md",
     "졸프/포폴 기록용.md",
     "Excalidraw",
