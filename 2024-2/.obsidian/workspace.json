@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트/BirdCLEF+ 2026/대회 개요.md",
+                "file": "프로젝트/BirdCLEF+ 2026/outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "대회 개요"
+              "title": "outline"
             }
           }
         ],
@@ -180,10 +180,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c2eae9a6d5ee60e4",
+  "active": "0cf2614f697e0d45",
   "lastOpenFiles": [
     "프로젝트/졸프/무제.md",
     "프로젝트/BirdCLEF+ 2026/대회 개요.md",
+    "프로젝트/BirdCLEF+ 2026/outline.md",
+    "프로젝트/BirdCLEF+ 2026/미확인 688311.crdownload",
     "프로젝트/BirdCLEF+ 2026",
     "프로젝트",
     "취업준비/이걸 하자.md",
@@ -211,14 +213,12 @@
     "취업준비/회사정리/CJ올리브영.md",
     "CS정리/영역별 필요한 지식.png",
     "아이디어짜보기",
-    "CS정리/운영체제/프로세스.md",
     "Excalidraw",
     "프로젝트/졸프/기록용",
     "회고/Project/무제",
     "취업준비/회사정리",
     "취업준비/CS면접/네트워크",
     "취업준비/CS면접",
-    "취업준비/인성면접",
     "Pasted image 20260219175455.png",
     "_attachments/Tree of thought reference.jpg",
     "_attachments/Pasted image 20260219175455.png",
