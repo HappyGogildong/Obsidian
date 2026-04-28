@@ -26,7 +26,17 @@
 ### train_soundscapes_labels.csv
 1. primary label : ';'를 구분자로 종이 나열되어 있다. 
 	- 마찬가지로 id로 통일되어 있지 않기 때문에 변경하는 작업이 필요하다
+	- train soundscapes에 없는 종이 test에 등장하거나, 그 반대도 가능.`
 
 ### sample_submission.csv
 1. 각 종이 제시되어 있고, 이 순서에 맞게 제출 csv도 순서를 맞추어야한다.
 
+### taxonomy.csv
+1. 235종을 나열해놓았다. 
+2. 이 csv의 row 순서가 sample_submission의 column 순서와 동일하므로
+	- 클래스별 threshold, 신경망을 위해 종 tax id, sono, 학명을 숫자로 변경할 때 사용하면 유용할 것 같다
+	- 그리고 출력 서식도 이것으로 맞추자
+
+
+### 총 요약
+1. 
