@@ -2,6 +2,7 @@
 	primary_label  : 녹음 파일의 지배적인 조류 ID (정수 숫자)
 	secondary_labels  : 배경에서 작게 들리는 다른 새 종 ID. 실제 확인 결과 거의 빈 값
 	type : 새 소리의 종류. call, son, flight call 등
+		 여러 소리가 관측될 경우 리스트 형식
 	latitude : 위도
 	longitude : 경도
 	scientific_name : 학명
