@@ -25,7 +25,7 @@
 
 ### train_soundscapes_labels
 1. primary label : ';'를 구분자로 종이 나열되어 있다. 
-	- 마찬가지로 
+	- 마찬가지로 id로 통일되어 있지 않기 때문에 변경하는 작업이 필요하다
 
 
 
