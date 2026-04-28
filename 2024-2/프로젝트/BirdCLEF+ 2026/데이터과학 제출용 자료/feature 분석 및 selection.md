@@ -18,9 +18,14 @@
 
 ### train.csv preprocess list
 1. **primary label, secondary labels**의 이름이 학명, 일반 이름, inat_tax_id가 모두 혼합
-	- taxonomy.csv를 보고 inat_taxon_id로 통일해야 한다.
+	- primary label 값을 inat_taxon_id로 통일해야한다.
+	- train.csv의 inat column에 없을 경우 taxonomy.csv 와 대조해서 찾아봐야한다.
 2. rating에 60.1236, url 등 이상한 값이 들어가있어서 이건 쳐내야 한다. 
 	- 0으로 초기화하는 것이 좋을 것 같다.
+
+### train_soundscapes_labels
+1. primary label : ';'를 구분자로 종이 나열되어 있다. 
+	- 마찬가지로 taxon이 아닌 
 
 
 
