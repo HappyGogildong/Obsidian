@@ -25,7 +25,7 @@
 
 ### train_soundscapes_labels
 1. primary label : ';'를 구분자로 종이 나열되어 있다. 
-	- 마찬가지로 taxon이 아닌 
+	- 마찬가지로 
 
 
 
