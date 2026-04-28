@@ -39,7 +39,11 @@
 2. 이 csv의 row 순서가 sample_submission의 column 순서와 동일하므로
 	- 클래스별 threshold, 신경망을 위해 종 tax id, sono, 학명을 숫자로 변경할 때 사용하면 유용할 것 같다
 	- 그리고 출력 서식도 이것으로 맞추자
-
+3. 곤충의 경우엔 다른 클래스(primary label 기준)이더라도 같은 tax_id를 사용하는 경우가 있다. 따라서 모든 라벨을 tax id로 변환 후 다시 숫자로 변환하지 말고 그대로 primary label 값을 숫자로 별명을 짓는 식으로 가야한다
 
 ### 총 요약
-1. 
+1. primary label을 그대로 인덱싱해서 연산
+	- 인덱싱 테이블 따로 적어놓자(내가 보기 편하게)
+2. class(234종을 말하는 것)별 train 샘플 데이터 양, 질 분류
+	 - 해당 결과를 토대로 augmentation hyper parameter 책정
+3. train_soundscape를
