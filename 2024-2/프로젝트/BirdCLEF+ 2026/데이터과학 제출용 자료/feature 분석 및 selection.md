@@ -23,9 +23,10 @@
 2. rating에 60.1236, url 등 이상한 값이 들어가있어서 이건 쳐내야 한다. 
 	- 0으로 초기화하는 것이 좋을 것 같다.
 
-### train_soundscapes_labels
+### train_soundscapes_labels.csv
 1. primary label : ';'를 구분자로 종이 나열되어 있다. 
 	- 마찬가지로 id로 통일되어 있지 않기 때문에 변경하는 작업이 필요하다
 
-
+### sample_submission.csv
+1. 각 종이 제시되어 있고, 이 순서에 맞게 제출 csv도 순서를 맞추어야한다.
 
