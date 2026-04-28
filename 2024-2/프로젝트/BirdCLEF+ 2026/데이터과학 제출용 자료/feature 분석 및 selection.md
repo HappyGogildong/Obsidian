@@ -29,6 +29,7 @@
 ### train_soundscapes_labels.csv
 1. primary label : ';'를 구분자로 종이 나열되어 있다. 
 	- 마찬가지로 id로 통일되어 있지 않기 때문에 변경하는 작업이 필요하다
+		- class indexing 하면 0-233 숫자로 통일가능
 	- train soundscapes에 없는 종이 test에 등장하거나, 그 반대도 가능.`
 
 ### sample_submission.csv
@@ -44,6 +45,7 @@
 ### 총 요약
 1. primary label을 그대로 인덱싱해서 연산
 	- 인덱싱 테이블 따로 적어놓자(내가 보기 편하게)
+	- train.csv
 2. class(234종을 말하는 것)별 train 샘플 데이터 양, 질 분류
 	 - 해당 결과를 토대로 augmentation hyper parameter 책정
 3. train_soundscape를
