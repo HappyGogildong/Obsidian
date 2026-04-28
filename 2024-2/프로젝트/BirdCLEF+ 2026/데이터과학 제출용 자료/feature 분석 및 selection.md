@@ -16,8 +16,8 @@
 	collection: 해당 녹음이 포함된 데이터 컬렉션 이름
 
 ### train.csv preprocess list
-1. **primary label, secondary labels**의 이름이 학명, 일반 이름, taxid가 모두 혼합되어 있다
-	- taxonomy.csv를 보고 taxon_id로 통일해야 한다.
+1. **primary label, secondary labels**의 이름이 학명, 일반 이름, inat_tax_id가 모두 혼합
+	- taxonomy.csv를 보고 inat_taxon_id로 통일해야 한다.
 
 
 
