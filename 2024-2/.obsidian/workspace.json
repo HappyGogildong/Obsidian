@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69fd089d2a533660",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "졸프/포폴 기록용.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "포폴 기록용"
-            }
-          },
-          {
             "id": "0cf2614f697e0d45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트/BirdCLEF+ 2026/데이터과학 제출용 자료.md",
+                "file": "프로젝트/BirdCLEF+ 2026/데이터과학 제출용 자료/feature 분석 및 selection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "데이터과학 제출용 자료"
+              "title": "feature 분석 및 selection"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,8 +167,13 @@
   },
   "active": "0cf2614f697e0d45",
   "lastOpenFiles": [
+    "프로젝트/BirdCLEF+ 2026/데이터과학 제출용 자료/학습 전략 (+앙상블).md",
+    "프로젝트/BirdCLEF+ 2026/데이터과학 제출용 자료/모델 변경사항.md",
+    "프로젝트/BirdCLEF+ 2026/데이터과학 제출용 자료/데이터과학 요구조건.md",
+    "프로젝트/BirdCLEF+ 2026/데이터과학 제출용 자료/EDA.md",
+    "프로젝트/BirdCLEF+ 2026/데이터과학 제출용 자료/feature 분석 및 selection.md",
+    "프로젝트/BirdCLEF+ 2026/데이터과학 제출용 자료",
     "프로젝트/BirdCLEF+ 2026/Competiton outline.md",
-    "프로젝트/BirdCLEF+ 2026/데이터과학 제출용 자료.md",
     "프로젝트/BirdCLEF+ 2026/Dataset outline.md",
     "프로젝트/졸프/무제.md",
     "프로젝트/BirdCLEF+ 2026/대회 개요.md",
@@ -207,10 +197,6 @@
     "프로젝트/졸프/기록용/3.06.md",
     "취업준비/회사정리/네이버.md",
     "취업준비/회사정리/당근.md",
-    "취업준비/회사정리/라인.md",
-    "취업준비/회사정리/카카오.md",
-    "취업준비/회사정리/쿠팡.md",
-    "취업준비/회사정리/현대오토에버.md",
     "CS정리/영역별 필요한 지식.png",
     "아이디어짜보기",
     "Excalidraw",
@@ -218,7 +204,6 @@
     "회고/Project/무제",
     "취업준비/회사정리",
     "취업준비/CS면접/네트워크",
-    "취업준비/CS면접",
     "Pasted image 20260219175455.png",
     "_attachments/Tree of thought reference.jpg",
     "_attachments/Pasted image 20260219175455.png",
