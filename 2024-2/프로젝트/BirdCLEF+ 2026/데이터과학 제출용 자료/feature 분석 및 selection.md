@@ -1,4 +1,4 @@
-#### train.csv
+### train.csv
 	primary_label  : 녹음 파일의 지배적인 조류 ID (정수 숫자)
 	secondary_labels  : 배경에서 작게 들리는 다른 새 종 ID. 실제 확인 결과 거의 빈 값
 	type : 새 소리의 종류. call, son, flight call 등
@@ -16,13 +16,16 @@
 	filename : 링크에서 실제 오디오 파일 경로와 이름
 	collection: 해당 녹음이 포함된 데이터 컬렉션 이름
 
-### train.csv preprocess list
+### train.csv 
 1. **primary label, secondary labels**의 이름이 학명, 일반 이름, inat_tax_id가 모두 혼합
 	- sample submission의 column도 모두 혼합되어 사용된다.
 	- 
 2. rating에 60.1236, url 등 이상한 값이 들어가있어서 이건 쳐내야 한다. 
 	- 0으로 초기화하는 것이 좋을 것 같다.
 
+### train audio
+1. 각 클래스별로 가진 오디오의 갯수, 품질이 모두 다르다(32000khz는 동일)
+2. train.csv의 메타데이터를 참고 가능 
 ### train_soundscapes_labels.csv
 1. primary label : ';'를 구분자로 종이 나열되어 있다. 
 	- 마찬가지로 id로 통일되어 있지 않기 때문에 변경하는 작업이 필요하다
